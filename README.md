@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal, A full-stack developer 👨‍💻</h1>
   
 
-- 🌱 I’m currently learning React Native  
+- 🌱 I’m currently learning Rust  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
